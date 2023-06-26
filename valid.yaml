@@ -2,4 +2,3 @@
 spec:
   taskRef:
     name: read-task
-
